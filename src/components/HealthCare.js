@@ -1,4 +1,4 @@
-import "./HealthCareStyles.css";
+import "./css/HealthCareStyles.css";
 
 import React from 'react'
 import IntroImg from "../assets/heathcare-1.png"

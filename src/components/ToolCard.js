@@ -1,4 +1,4 @@
-import "./ToolCardStyles.css"
+import "./css/ToolCardStyles.css"
 
 import React from 'react'
 import { NavLink } from "react-router-dom"

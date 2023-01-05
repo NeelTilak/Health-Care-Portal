@@ -1,4 +1,4 @@
-import "./ToolCardStyles.css"
+import "./css/ToolCardStyles.css"
 import ToolCard from "./ToolCard"
 import ToolCardData from "./ToolCardData"
 

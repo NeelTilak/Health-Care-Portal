@@ -3,7 +3,7 @@ import React from 'react'
 import { Link } from "react-router-dom"
 import React1 from "../assets/React1.jpg"
 import React2 from "../assets/React2.jpg"
-import "./DetailStyles.css"
+import "./css/DetailStyles.css"
 
 const Detail = () => {
     return (
