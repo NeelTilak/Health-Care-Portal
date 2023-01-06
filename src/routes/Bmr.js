@@ -1,17 +1,17 @@
 import React from 'react'
-
 import Footer from '../components/Footer'
 import Navbar from '../components/Navbar'
-import Bmcl from '../components/Bmcl'
+import Bmrcl from '../components/Bmrcl'
 
-const Bmi = () => {
+
+const Bmr = () => {
   return (
     <div>
         <Navbar />
-        <Bmcl />
+        <Bmrcl />
         <Footer />
     </div>
   )
 }
 
-export default Bmi
+export default Bmr
